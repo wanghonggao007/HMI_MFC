@@ -1,0 +1,11 @@
+﻿  CDlgHMI.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+c:\work\back\download\hmi_mfc\libforhmi\cdlghmi.h(22): warning C4091: “typedef ”: 没有声明变量时忽略“HMI_COMMAND_CODE”的左侧
+  dllmain.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  HMI.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+c:\work\back\download\hmi_mfc\libforhmi\cdlghmi.h(22): warning C4091: “typedef ”: 没有声明变量时忽略“HMI_COMMAND_CODE”的左侧
+  正在生成代码...
+    正在创建库 C:\work\back\download\HMI_MFC\TestHMI\Debug\LibForHMI.lib 和对象 C:\work\back\download\HMI_MFC\TestHMI\Debug\LibForHMI.exp
+  LibForHMI.vcxproj -> C:\work\back\download\HMI_MFC\TestHMI\Debug\LibForHMI.dll
